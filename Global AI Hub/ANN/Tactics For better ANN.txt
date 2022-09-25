@@ -1,0 +1,9 @@
+For Better DL Results
+
+
+You can change :
+1) Number of Hidden Layers - Except the output layer
+2) Number of Nodes in Hidden Layers - Except the output layer
+3) Activation Functions - Except the output layer
+4) Dropout Rate
+5) Number of Epochs

@@ -1,0 +1,15 @@
+For better RNN
+
+num_words parameter in load_datasets function
+max_len parameter also
+
+
+You can change :
+
+1) Number of Units on the LSTM layer
+2) Dropout Rate
+3) Recurrent Dropout Rate
+4) Optimizer
+
+
+

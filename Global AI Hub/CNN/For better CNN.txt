@@ -1,0 +1,14 @@
+For better CNN 
+
+You can change :
+
+1) Number of Concolutional Layers
+2) Number of kernels in convolutional layers.
+3) Kernel Size
+4) Strides
+5) Activation Functions
+6) Number of Hidden Layers in classification part
+7) Number of Nodes in classification part
+8) Optimizer
+9) Batch Size
+10) Number of Epochs
