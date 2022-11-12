@@ -1,3 +1,3 @@
-# Tensorflow
+# Deep Learning
 
-I share my Tensorflow library studies from various sources
+I share my Deep Learning studies with Tensorflow and Pythorch from various sources
